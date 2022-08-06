@@ -5,4 +5,5 @@
  - Used media queries to make website responsive. 
  
  ## Screenshots
- ![Law Projectimg](https://user-images.githubusercontent.com/110158807/183226186-4f64a7c6-7fbf-48e6-b0ec-aeee6078a8fc.png)
+
+![Fooodres](https://user-images.githubusercontent.com/110158807/183226313-0c395143-c54c-4d9b-84ae-082aef1dad56.png)  ![fres1 png](https://user-images.githubusercontent.com/110158807/183226329-87471fdb-2400-4778-974b-a9b1edc99f7c.png)
