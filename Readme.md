@@ -16,7 +16,7 @@
   
   
   ### Project Deploy Link
-  [Justice Home]
+  [Justice Home](https://justicehome.netlify.app/)
   
  
  ### Author
