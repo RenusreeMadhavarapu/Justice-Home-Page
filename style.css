@@ -92,6 +92,7 @@ div.menu{
         font-size:30px;
         margin-right:50px;
         cursor:pointer;
+        margin-top:10px;
     }
 
     .nav-items{
@@ -99,6 +100,7 @@ div.menu{
     }
     img.logo{
         width:100px;
+        margin-top:20px;
     }
     
 }
